@@ -1,6 +1,6 @@
-## Getting Started
+## Java Proj
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Made this in VSCode, so it comes with some pre-made Java project stuff.
 
 ## Folder Structure
 
@@ -11,8 +11,5 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+lib contains the required MySQL JDBC Connector .jar. Maybe I should remove it, but idc. 
+Run App.java if you want to test.
